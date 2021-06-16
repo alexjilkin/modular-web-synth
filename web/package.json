@@ -41,7 +41,7 @@
     "css-loader": "^0.28.11",
     "jest": "^22.4.4",
     "node-sass": "^4.12.0",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.36",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
